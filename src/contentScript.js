@@ -41,7 +41,7 @@ async function replaceContentWithBrainrot(nodes) {
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.type === "START_BRAINROT") {
-    console.log("Melt sequence initiated...");
+    console.log("iq decreasing...");
     const textNodes = getAllTextContent(document.body);
     console.log(`${textNodes.length} text nodes.`);
     replaceContentWithBrainrot(textNodes);
