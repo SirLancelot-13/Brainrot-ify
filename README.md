@@ -1,11 +1,11 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> My Extension
+# <img src="public/icons/icon.png" width="45" align="left"> My Extension
 
-My Chrome Extension
+Brainrot-ify
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Improves retentivity by converting text into brainrot
+- Yea...that's it. It does that using gemini api key.
 
 ## Install
 
