@@ -1,5 +1,5 @@
 import { GoogleGenAI } from "@google/genai";
-const apiKey = "AIzaSyC0QvKfd6cdAVvRSW-KABZiat5pRWCF5jc";
+const apiKey = "YOUR_API_KEY";
 console.log("Background service worker loaded");
 const ai = new GoogleGenAI({ apiKey });
 
