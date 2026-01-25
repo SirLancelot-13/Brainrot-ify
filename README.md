@@ -1,4 +1,4 @@
-# <img src="public/icons/icon.png" width="45" align="left"> My Extension
+# <img src="public/icons/icon.png" width="45" align="left"> Brainrot-ify Extension
 
 Brainrot-ify
 
